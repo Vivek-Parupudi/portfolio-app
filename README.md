@@ -13,5 +13,5 @@ https://reactjs.org/docs/create-a-new-react-app.html
 Copy the src folder into the src folder of you app
 
 Run the code:
-Open the React app folder in terminal or CMD and type the command npm start 
+1. Open the React app folder in terminal or CMD and type the command 'npm start'. 
 The website should open in a new browser window
